@@ -1,6 +1,6 @@
 # Ex. No.  - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
 
-## DATE: 
+## DATE: 4.03.2026
 
 ## AIM:
 ###   To determine & simulate the displacement & velocity analysis for the given slider crank mechanism. 
@@ -11,7 +11,7 @@
 ###   ●	Mech Analyzer software.
 ###   ●	Processor: Minimum 1.5 GHz
 ###   ●	RAM: Minimum 512 MB
-###   ●	Operating System: Windows XP, Windows Vista, Windows 7, Windows 8 or higher.
+###   ●	Operating System: Windows XP, Windows Vista, Windows 7, Windows 8 or higher.4.
 ###   ●	Dependencies: Microsoft .Net 2.0 framework
 ###   ●	Mini Drafter.
 ###   ●	Geometry instruments.
