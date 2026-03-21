@@ -16,12 +16,18 @@
 ###   ●	Mini Drafter.
 ###   ●	Geometry instruments.
 
-## PROCEDURE:
-###  Configuration diagram
-###  Assume scale 1:10
-###  1. Draw a horizontal line and locate C 
-###  2. At C, draw CB of length 20 mm inclined at 1200 
-###  3. With B as centre, BA 60mm, draw an arc to cut the horizontal at A. Join BA to complete the configuration diagram 
+## PROCEDURE:Draw the Reference Line
+Draw a straight horizontal line on your drawing sheet.
+Mark a convenient point on this line and label it as C.
+Draw Link CB
+At point C, use a protractor to draw a line inclined at 120° to the horizontal.
+On this inclined line, measure and mark 20 mm from point C to locate point B.
+(This represents link CB.)
+Locate Point A using Arc
+With B as the center, take a radius of 60 mm and draw an arc.
+This arc will intersect the horizontal line at a point—mark this intersection as A.
+Complete the Configuration
+Join B to A with a straight line.
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/0e905314-0fc5-4e13-a513-67c95aced702)
 
@@ -38,6 +44,8 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/23ca1772-5a92-4b8b-a8bc-e149da33d297)
 
 ## Output
+<img width="1132" height="796" alt="Screenshot 2026-03-11 111614" src="https://github.com/user-attachments/assets/43b9fe3b-ff05-4aba-af7a-d046714c408e" />
+<img width="992" height="473" alt="Screenshot 2026-03-11 111622" src="https://github.com/user-attachments/assets/b1276060-2391-4b89-bc41-72b19ea6fd39" />
 
 
 ### Name:Ghavaskar VR
