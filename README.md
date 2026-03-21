@@ -17,17 +17,17 @@
 ###   ●	Geometry instruments.
 
 ## PROCEDURE:Draw the Reference Line
-###Draw a straight horizontal line on your drawing sheet.
-###Mark a convenient point on this line and label it as C.
-###Draw Link CB
-###At point C, use a protractor to draw a line inclined at 120° to the horizontal.
-###On this inclined line, measure and mark 20 mm from point C to locate point B.
+### Draw a straight horizontal line on your drawing sheet.
+### Mark a convenient point on this line and label it as C.
+### Draw Link CB
+### At point C, use a protractor to draw a line inclined at 120° to the horizontal.
+### On this inclined line, measure and mark 20 mm from point C to locate point B.
 (This represents link CB.)
-###Locate Point A using Arc
-###With B as the center, take a radius of 60 mm and draw an arc.
-###This arc will intersect the horizontal line at a point—mark this intersection as A.
-###Complete the Configuration
-###Join B to A with a straight line.
+### Locate Point A using Arc
+### With B as the center, take a radius of 60 mm and draw an arc.
+### This arc will intersect the horizontal line at a point—mark this intersection as A.
+### Complete the Configuration
+### Join B to A with a straight line.
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/0e905314-0fc5-4e13-a513-67c95aced702)
 
